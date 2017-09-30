@@ -6,6 +6,6 @@
   </head>
   <body>
     <h1>My first PHP page</h1>
-    <?php echo "Hello App empresariales - Duban Camilo Bedoya!"; ?>
+    <?php echo "Hello App empresariales - Duban Camilo Bedoya Jiménez!"; ?>
   </body>
 </html>
